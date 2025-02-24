@@ -1,0 +1,1 @@
+This is basic git demo to understand how git works
